@@ -1,9 +1,9 @@
 ﻿---
 layout: post
-title: 처음 블로그를 시작하며...
+title: "처음 블로그를 시작하며..."
+date: 2022-01-03 05:13:00 +0900
 image: 2.jpg
-date: 2022-01-03 04:49:00 +0200
-tags:
+tags: [story]
 categories: story
 ---
 # 처음 블로그를 시작하며...
